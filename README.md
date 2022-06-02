@@ -27,8 +27,11 @@ Entrega también un listado de responsabilidades.
 ## RESPONSABILIDADES
 
 -Info -> Componente que engloba el resto de componentes
+
 -Display -> Component que se encarga de pintar los números que se indican por key
+
 -Actions -> Componente padre de "Action" que se encarga de dar funcionalidad a los botones
 ----Action -> Componente hijo que se encarga de que se vean los botones de llamar y colgar
+
 -Keyboard -> Componente padre de key, que se encarga de que se vea el listado de números mostrados del teléfono
 -----Key -> Componente hijo que se encarga de que se vea el número y recibir la función de action
